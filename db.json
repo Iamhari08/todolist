@@ -11,18 +11,6 @@
       "text": "Meeting at School",
       "day": "May 6th at 1:30pm",
       "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Park",
-      "day": "May 8th at 6:30pm",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "text": "Cooking",
-      "day": "May 9th at 8:30pm",
-      "reminder": true
     }
   ]
 }
